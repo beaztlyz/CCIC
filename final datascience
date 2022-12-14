@@ -14,4 +14,7 @@ df.info()
 
 
 
-df2 = pdf.read_csv()
+df2 = pdf.read_csv("champion_stats.csv")
+
+
+sns.lineplot(x = null, y = null)
