@@ -18,3 +18,7 @@ df2 = pdf.read_csv("champion_stats.csv")
 
 
 sns.lineplot(x = null, y = null)
+
+
+
+the correlation i have found is that
