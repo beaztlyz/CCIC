@@ -1,1 +1,17 @@
+// different games, finding difficulty in relationship to rating, wins, and 
+//https://www.kaggle.com/code/karnikakapoor/board-games-analysis/data 
+/
+
+
+
+import pandas as pd 
+import seaborn as sns 
+df = pd.read_csv("bgg_dataset.csv") 
+
+print(df) 
+
+df.info()
+
+
+
 
