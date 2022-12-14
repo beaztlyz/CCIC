@@ -14,4 +14,4 @@ df.info()
 
 
 
-
+df2 = pdf.read_csv()
